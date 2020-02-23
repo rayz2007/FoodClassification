@@ -10,3 +10,5 @@ Convolutional neural networks give us the ability to easily scale to thousands o
 
 Here we will be utilizing the Food-101 dataset with 101,000 images of food within 101 classes to build an image classifier using the high-level API Keras running on top of tensorflow.
 
+Data pipeline inspired by this blog post: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
